@@ -1,0 +1,5 @@
+Open your flile and run CMD...and enter your user name and press "Enter Key"
+This Code working for Windows 10 Operating System
+
+keytool -list -v -keystore C:\Users\you username\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
+
